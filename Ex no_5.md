@@ -41,4 +41,4 @@ int main()
 
 
 ## Result:
-Thus the program was executed and the output was verified successfully.
+Thus the program was executed and the output was verified successfully
